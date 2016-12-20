@@ -1,0 +1,9 @@
+[
+null,
+{"id":1,"battlerName":"Shantanu","characterIndex":0,"characterName":"Shantanu","classId":4,"equips":[0,0,0,3,4],"faceIndex":0,"faceName":"Shantanu","traits":[],"initialLevel":1,"maxLevel":99,"name":"Shantanu","nickname":"","note":"[General] A young priest from the Joria Region.","profile":""},
+{"id":2,"battlerName":"Roland","characterIndex":0,"characterName":"Roland","classId":1,"equips":[1,0,0,0,0],"faceIndex":1,"faceName":"Roland","traits":[],"initialLevel":1,"maxLevel":99,"name":"Roland","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"Richard","characterIndex":0,"characterName":"Richard","classId":5,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Richard","traits":[],"initialLevel":1,"maxLevel":99,"name":"Richard","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"Jay","characterIndex":0,"characterName":"Jay","classId":3,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Jay","traits":[],"initialLevel":1,"maxLevel":99,"name":"Jay","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"Rob","characterIndex":0,"characterName":"Rob","classId":2,"equips":[0,0,0,0,0],"faceIndex":3,"faceName":"Rob","traits":[],"initialLevel":1,"maxLevel":99,"name":"Rob","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"Lindsey","characterIndex":0,"characterName":"Lindsey","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Lindsey","traits":[{"code":32,"dataId":1,"value":1},{"code":11,"dataId":1,"value":1}],"initialLevel":25,"maxLevel":99,"name":"Lindsey","nickname":"","note":"","profile":"One of the Seven Guardians"}
+]
